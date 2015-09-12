@@ -20,5 +20,5 @@ nodejs 顶层对象为 global  ( 没有 window 对象 )
 javascript 顶层对象为 window
 
 
-
+nodeapi.ucdok.com/api/globals.html nodejs中文 api 文档
 lzw.me/pages/ecmascript/  ECMA概括
